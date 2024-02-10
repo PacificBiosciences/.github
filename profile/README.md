@@ -16,3 +16,5 @@ Help pages for tools that are running on our long-read platoform?
  - [Kinnex HiFi read splitter](https://skera.how/)
  - [CCS: Generate Highly Accurate Single-Molecule Consensus Reads (HiFi Reads)](https://ccs.how/)
  - [Predict 5mC in PacBio HiFi reads](https://github.com/PacificBiosciences/jasmine)
+
+This list is not exhaustive and work in progress, check out our repositories for more greatness!
