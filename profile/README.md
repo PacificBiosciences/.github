@@ -1,20 +1,32 @@
-## Welcome to PacBio's GitHub space 👋
+## 👋 to PacBio's GitHub space
 
 Are you looking for great tools to analyze your HiFi data?
- - [Tandem repeat genotyping and visualization from PacBio HiFi data](https://github.com/PacificBiosciences/trgt)
- - [A battery of methylation tools for PacBio HiFi reads](MethBat)
- - [Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
- - [Fusion gene caller for Iso-Seq sequencing data.](https://github.com/PacificBiosciences/pbfusion)
- - [HLA star-calling tool for PacBio HiFi data types](https://github.com/PacificBiosciences/hifihla)
- - [Iso-Seq - Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
- - [A minimap2 frontend for PacBio native data formats](https://github.com/PacificBiosciences/pbmm2)
+ - [`hificnv` – Copy number variant caller and depth visualization utility](https://github.com/PacificBiosciences/HiFiCNV)
+ - [`hifihla` – HLA star-calling](https://github.com/PacificBiosciences/hifihla)
+ - [`hiphase` – Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
+ - [`isoseq` – Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
+ - [`methbat` – A battery of methylation tools](MethBat)
+ - [`pangu` – A star-typer for long-read PGx applications](https://github.com/PacificBiosciences/pangu)
+ - [`paraphase` – HiFi-based caller for highly homologous genes](https://github.com/PacificBiosciences/paraphase)
+ - [`pbaa` – Amplicon Analysis](https://github.com/PacificBiosciences/pbAA)
+ - [`pbfusion` – Fusion gene caller for Iso-Seq sequencing data.](https://github.com/PacificBiosciences/pbfusion)
+ - [`pbmm2` – A minimap2 frontend for PacBio native data formats](https://github.com/PacificBiosciences/pbmm2)
+ - [`pbsv` – Structural variant calling and analysis tools](https://github.com/PacificBiosciences/pbsv)
+ - [`pbtk` – PacBio BAM toolkit](https://github.com/PacificBiosciences/pbtk)
+ - [`skera` – Kinnex HiFi read splitter](https://skera.how/)
+ - [`svpack` – Filtering, comparing, and annotating structural variant](https://github.com/PacificBiosciences/svpack)
+ - [`trgt` – Tandem repeat genotyping and visualization](https://github.com/PacificBiosciences/trgt)
+
 
 How about complete workflows for your HiFi data?
- - [HiFi target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
+ - [Amplicon Workflow](https://github.com/PacificBiosciences/hifi-amplicon-workflow)
+ - [Full-length 16S analysis](https://github.com/PacificBiosciences/HiFi-16S-workflow)
+ - [PacBio Pipelines – Common Tasks and Workflows](https://github.com/PacificBiosciences/wdl-common)
+ - [Target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
 
 Help pages for tools that are running on our long-read platoform?
- - [Kinnex HiFi read splitter](https://skera.how/)
- - [CCS: Generate Highly Accurate Single-Molecule Consensus Reads (HiFi Reads)](https://ccs.how/)
- - [Predict 5mC in PacBio HiFi reads](https://github.com/PacificBiosciences/jasmine)
+ - [How we demultiplex barcodes](https://lima.how/)
+ - [How we generate 5mC annotations](https://github.com/PacificBiosciences/jasmine)
+ - [How we generate HiFi reads)](https://ccs.how/)
 
-This list is not exhaustive and work in progress, check out our repositories for more greatness!
+This list is work in progress, check out our repositories for more greatness!
