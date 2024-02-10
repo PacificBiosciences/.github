@@ -21,6 +21,7 @@ Are you looking for great tools to analyze your HiFi data?
 How about complete workflows for your HiFi data?
  - [Amplicon Workflow](https://github.com/PacificBiosciences/hifi-amplicon-workflow)
  - [Full-length 16S analysis](https://github.com/PacificBiosciences/HiFi-16S-workflow)
+ - [Metagenomic analyses](https://github.com/PacificBiosciences/pb-metagenomics-tools)
  - [PacBio Pipelines – Common Tasks and Workflows](https://github.com/PacificBiosciences/wdl-common)
  - [Target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
 
