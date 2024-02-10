@@ -1,12 +1,18 @@
-## Hi there 👋
+## Welcome to PacBio's GitHub space 👋
 
-<!--
+Are you looking for great tools to analyze your HiFi data?
+ - [Tandem repeat genotyping and visualization from PacBio HiFi data](https://github.com/PacificBiosciences/trgt)
+ - [A battery of methylation tools for PacBio HiFi reads](MethBat)
+ - [Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
+ - [Fusion gene caller for Iso-Seq sequencing data.](https://github.com/PacificBiosciences/pbfusion)
+ - [HLA star-calling tool for PacBio HiFi data types](https://github.com/PacificBiosciences/hifihla)
+ - [Iso-Seq - Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
+ - [A minimap2 frontend for PacBio native data formats](https://github.com/PacificBiosciences/pbmm2)
 
-**Here are some ideas to get you started:**
+How about complete workflows for your HiFi data?
+ - [HiFi target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Help pages for tools that are running on our long-read platoform?
+ - [Kinnex HiFi read splitter](https://skera.how/)
+ - [CCS: Generate Highly Accurate Single-Molecule Consensus Reads (HiFi Reads)](https://ccs.how/)
+ - [Predict 5mC in PacBio HiFi reads](https://github.com/PacificBiosciences/jasmine)
