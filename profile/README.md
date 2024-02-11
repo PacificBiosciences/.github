@@ -14,6 +14,7 @@ Are you looking for great tools to analyze your HiFi data?
  - [`pbsv` – Structural variant calling and analysis tools](https://github.com/PacificBiosciences/pbsv)
  - [`pbtk` – PacBio BAM toolkit](https://github.com/PacificBiosciences/pbtk)
  - [`skera` – Kinnex HiFi read splitter](https://skera.how/)
+ - [`starphase` – Phase-aware pharmacogenomic diplotyper](https://github.com/PacificBiosciences/pb-StarPhase)
  - [`svpack` – Filtering, comparing, and annotating structural variant](https://github.com/PacificBiosciences/svpack)
  - [`trgt` – Tandem repeat genotyping and visualization](https://github.com/PacificBiosciences/trgt)
 
