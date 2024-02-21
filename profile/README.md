@@ -26,9 +26,9 @@ How about complete workflows for your HiFi data?
  - [PacBio Pipelines – Common Tasks and Workflows](https://github.com/PacificBiosciences/wdl-common)
  - [Target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
 
-Help pages for tools that are running on our long-read platoform?
+Help pages for tools that are running on our long-read platform?
  - [How we demultiplex barcodes](https://lima.how/)
  - [How we generate 5mC annotations](https://github.com/PacificBiosciences/jasmine)
- - [How we generate HiFi reads)](https://ccs.how/)
+ - [How we generate HiFi reads](https://ccs.how/)
 
 This list is work in progress, check out our repositories for more greatness!
