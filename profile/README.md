@@ -2,7 +2,6 @@
 
 Are you looking for great tools to analyze your HiFi data?
  - [`hificnv` – Copy number variant caller and depth visualization utility](https://github.com/PacificBiosciences/HiFiCNV)
- - [`hifihla` – HLA star-calling](https://github.com/PacificBiosciences/hifihla)
  - [`hiphase` – Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
  - [`isoseq` – Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
  - [`methbat` – Battery of methylation tools](https://github.com/PacificBiosciences/MethBat)
