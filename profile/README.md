@@ -12,7 +12,7 @@ Are you looking for great tools to analyze your HiFi data?
  - [`pbmm2` – A minimap2 frontend for PacBio native data formats](https://github.com/PacificBiosciences/pbmm2)
  - [`pbsv` – Structural variant calling and analysis tools](https://github.com/PacificBiosciences/pbsv)
  - [`pbtk` – PacBio BAM toolkit](https://github.com/PacificBiosciences/pbtk)
- - [`sawfish` – Structural variant discovery and genotyping from mapped PacBio HiFi data](https://github.com/PacificBiosciences/sawfish)
+ - [`sawfish` – Joint structural variant and copy number variant caller for HiFi sequencing data](https://github.com/PacificBiosciences/sawfish)
  - [`skera` – Kinnex HiFi read splitter](https://skera.how/)
  - [`starphase` – Phase-aware pharmacogenomic diplotyper](https://github.com/PacificBiosciences/pb-StarPhase)
  - [`svpack` – Filtering, comparing, and annotating structural variant](https://github.com/PacificBiosciences/svpack)
