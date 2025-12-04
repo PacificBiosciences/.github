@@ -5,6 +5,7 @@ Are you looking for great tools to analyze your HiFi data?
  - [`hiphase` – Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
  - [`isoseq` – Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
  - [`methbat` – Battery of methylation tools](https://github.com/PacificBiosciences/MethBat)
+ - [`owl` – Microsatellite instability measures](https://github.com/PacificBiosciences/owl)
  - [`pangu` – Star-typer for long-read PGx applications](https://github.com/PacificBiosciences/pangu)
  - [`paraphase` – Caller for highly homologous genes](https://github.com/PacificBiosciences/paraphase)
  - [`pbaa` – Amplicon Analysis](https://github.com/PacificBiosciences/pbAA)
