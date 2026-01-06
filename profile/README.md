@@ -1,10 +1,12 @@
 ## 👋 to PacBio's GitHub space
 
 Are you looking for great tools to analyze your HiFi data?
+ - [`aardvark` - Small variant, structural variant, and tandem repeat benchmarking tool](https://github.com/PacificBiosciences/aardvark)
  - [`hificnv` – Copy number variant caller and depth visualization utility](https://github.com/PacificBiosciences/HiFiCNV)
  - [`hiphase` – Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
  - [`isoseq` – Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
  - [`methbat` – Battery of methylation tools](https://github.com/PacificBiosciences/MethBat)
+ - [`mitorsaw` - Mitochondrial variant calling and heteroplasmy detection](https://github.com/PacificBiosciences/mitorsaw)
  - [`owl` – Microsatellite instability measures](https://github.com/PacificBiosciences/owl)
  - [`pangu` – Star-typer for long-read PGx applications](https://github.com/PacificBiosciences/pangu)
  - [`paraphase` – Caller for highly homologous genes](https://github.com/PacificBiosciences/paraphase)
