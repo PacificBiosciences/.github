@@ -8,7 +8,6 @@ Are you looking for great tools to analyze your HiFi data?
  - [`methbat` – Battery of methylation tools](https://github.com/PacificBiosciences/MethBat)
  - [`mitorsaw` - Mitochondrial variant calling and heteroplasmy detection](https://github.com/PacificBiosciences/mitorsaw)
  - [`owl` – Microsatellite instability measures](https://github.com/PacificBiosciences/owl)
- - [`pangu` – Star-typer for long-read PGx applications](https://github.com/PacificBiosciences/pangu)
  - [`paraphase` – Caller for highly homologous genes](https://github.com/PacificBiosciences/paraphase)
  - [`pbaa` – Amplicon Analysis](https://github.com/PacificBiosciences/pbAA)
  - [`pbfusion` – Fusion gene caller for Iso-Seq sequencing data.](https://github.com/PacificBiosciences/pbfusion)
