@@ -28,6 +28,7 @@ How about complete workflows for your HiFi data?
  - [PacBio Pipelines – Common Tasks and Workflows](https://github.com/PacificBiosciences/wdl-common)
  - [Target enrichment workflow](https://github.com/PacificBiosciences/HiFiTargetEnrichment)
  - [HiFi somatic WDL - Call somatic variants on tumor/normal WGS data](https://github.com/PacificBiosciences/HiFi-somatic-WDL)
+ - [Kinnex IsoSeq WDL](https://github.com/PacificBiosciences/Kinnex-IsoSeq-WDL)
 
 Help pages for tools that are running on our long-read platform?
  - [How we demultiplex barcodes](https://lima.how/)
