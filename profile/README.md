@@ -4,6 +4,7 @@ Are you looking for great tools to analyze your HiFi data?
  - [`aardvark` - Small variant, structural variant, and tandem repeat benchmarking tool](https://github.com/PacificBiosciences/aardvark)
  - [`hificnv` – Copy number variant caller and depth visualization utility](https://github.com/PacificBiosciences/HiFiCNV)
  - [`hiphase` – Small variant, structural variant, and short tandem repeat phasing tool](https://github.com/PacificBiosciences/HiPhase)
+ - [`isocall` - Cohort-scale joint isoform calling](https://github.com/PacificBiosciences/isocall)
  - [`isoseq` – Scalable De Novo Isoform Discovery](https://github.com/PacificBiosciences/IsoSeq)
  - [`methbat` – Battery of methylation tools](https://github.com/PacificBiosciences/MethBat)
  - [`mitorsaw` - Mitochondrial variant calling and heteroplasmy detection](https://github.com/PacificBiosciences/mitorsaw)
